@@ -28,10 +28,11 @@ To make most of the tutorial session, please follow the following steps and set 
 
 
 7. Follow the instruction below to upload this repo to your Azure Notebooks and click **Import**
+_(The repo link is **henry-zeng/AutoML-AIConf-2019-BJ**)_
 
 <img width="400" src="https://user-images.githubusercontent.com/48665960/59403006-714d0680-8dd3-11e9-998a-32dcb337eae5.PNG">
 
-#### Congratulations! You are all set! 
+#### :clap: Congratulations! You are all set! :clap:
 
 ### 1. Outline
 In this session, we are going to run a few notebooks to learn how to utilize AutoML to do:
