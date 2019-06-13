@@ -12,8 +12,12 @@ To make most of the tutorial session, please follow the following steps and set 
 
 <img width="400" src="https://user-images.githubusercontent.com/48665960/59402271-2a114680-8dd0-11e9-99e4-d555813cd88c.PNG">
 
+**If this workspace is not shown,** click **All resources** on the left then click the only **Machine Learning service workspace** as shown below
 
-4. Click **Download config.json** and download the file as shown below
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59414823-df55f580-8df4-11e9-9de9-be45e87770b9.PNG">
+
+
+4. Click **Download config.json** and save `config.json` as shown below
 
 <img width="400" src="https://user-images.githubusercontent.com/48665960/59402305-48774200-8dd0-11e9-9108-a2f2c8b528e7.PNG">
 
@@ -31,6 +35,13 @@ To make most of the tutorial session, please follow the following steps and set 
 _(The repo link is **henry-zeng/AutoML-AIConf-2019-BJ**)_
 
 <img width="400" src="https://user-images.githubusercontent.com/48665960/59403006-714d0680-8dd3-11e9-998a-32dcb337eae5.PNG">
+
+8. Upload `config.json` to the repo you imported just now as shown below
+
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59414555-49ba6600-8df4-11e9-8e89-a43b029bd68a.PNG">
+
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59414558-4aeb9300-8df4-11e9-96ee-f13a73b4f133.PNG">
+
 
 #### :clap: Congratulations! You are all set! :clap:
 
