@@ -1,59 +1,58 @@
-# AutoML-AIConf-2019-BJ
-AutoML tutorial for AI Conferencen Beijing 2019
-Session details as below,
+# Artificial Intelligence Conference 2019 Beijing
+## Tutorial: Democratizing and accelerating AI through automated machine learning
 
-https://ai.oreilly.com.cn/ai-cn/public/schedule/detail/75532?locale=en
+Click [here](https://ai.oreilly.com.cn/ai-cn/public/schedule/detail/75532?locale=en) to see session details.
 
-1. Prerequisite
-Setup using a Local Conda environment
+### 0. Prerequisite
+To make most of the tutorial session, please follow the following steps and set up the environment:
 
-To run these notebook on your own notebook server, use these installation instructions. The instructions below will install everything you need and then start a Jupyter notebook.
-1. Install mini-conda from here, choose 64-bit Python 3.7 or higher.
+1. Open [Azure Portal](https://portal.azure.com)
+2. Log in with the username and password provided on your desk (ask the presenters for help if needed)
+3. Click the workspace as shown below
 
-    Note: if you already have conda installed, you can keep using it but it should be version 4.4.10 or later (as shown by: conda -V). If you have a previous version installed, you can update it using the command: conda update conda. There's no need to install mini-conda specifically.
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59402271-2a114680-8dd0-11e9-99e4-d555813cd88c.PNG">
 
-2. Downloading the sample notebooks
+**If this workspace is not shown,** click **All resources** on the left then click the only **Machine Learning service workspace** as shown below
 
-    Download the sample notebooks from GitHub as zip and extract the contents to a local directory. The automated ML sample notebooks are in the "automated-machine-learning" folder.
-
-3. Setup a new conda environment
-
-The automl_setup script creates a new conda environment, installs the necessary packages, configures the widget and starts a jupyter notebook. It takes the conda environment name as an optional parameter. The default conda environment name is azure_automl. The exact command depends on the operating system. See the specific sections below for Windows, Mac and Linux. It can take about 10 minutes to execute.
-
-Packages installed by the automl_setup script:
-
-    python
-    nb_conda
-    matplotlib
-    numpy
-    cython
-    urllib3
-    scipy
-    scikit-learn
-    pandas
-    tensorflow
-    py-xgboost
-    azureml-sdk
-    azureml-widgets
-    pandas-ml
-
-For more details refer to the automl_env.yml
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59414823-df55f580-8df4-11e9-9de9-be45e87770b9.PNG">
 
 
-2. Outline of the hands-on lab
-	0 -- setup
+4. Click **Download config.json** and save `config.json` as shown below
 
-	1 -- AutoML UI
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59402305-48774200-8dd0-11e9-9108-a2f2c8b528e7.PNG">
 
-	2 -- AutoML with SDK
 
-	3 -- AutoML for Timeseries
+5. Open [Azure Notebooks](https://notebooks.azure.com) and click **My Projects** as shown below
 
-	4 -- Model explainability with AutoML
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59402868-d94f1d00-8dd2-11e9-95ac-475b67a8e1b3.PNG">
 
-	5 -- AutoML with ONNX
 
-	6 -- Hyper-parameter tuning with Azure ML
+6. Click **Upload GitHub Repo** as shown below
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59402918-11eef680-8dd3-11e9-9fd0-6699be0fdbf4.PNG">
 
-	7 -- Model deployment
 
+7. Follow the instruction below to upload this repo to your Azure Notebooks and click **Import**
+_(The repo link is **henry-zeng/AutoML-AIConf-2019-BJ**)_
+
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59403006-714d0680-8dd3-11e9-998a-32dcb337eae5.PNG">
+
+8. Upload `config.json` to the repo you imported just now as shown below
+
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59414555-49ba6600-8df4-11e9-8e89-a43b029bd68a.PNG">
+
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59414558-4aeb9300-8df4-11e9-96ee-f13a73b4f133.PNG">
+
+
+#### :clap: Congratulations! You are all set! :clap:
+
+### 1. Outline
+In this session, we are going to run a few notebooks to learn how to utilize AutoML to do:
+ - Classification using whitelist models
+ - Explain classification model and visualize the explanation
+ - Classification with ONNX
+ - Training, hyperparameter tune, and deploy with TensorFlow
+ - Classification with Deployment
+ 
+### 2. Feedback
+Thank you for joining us in today's tutorial session! We hope you enjoyed it! 
+Welcome to leave any feedback, comments and thoughts [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4GmegO4u4FGqQBDEl-y1HBUOE81NU0zT1pRR0RURDRHQkdaVUUyMUJNQS4u).
