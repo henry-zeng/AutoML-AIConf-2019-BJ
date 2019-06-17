@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+.azureml/
+assets/
+sample_projects/
+.amlignore
+model.pkl
