@@ -6,3 +6,5 @@ assets/
 sample_projects/
 .amlignore
 model.pkl
+automl_errors.log
+
