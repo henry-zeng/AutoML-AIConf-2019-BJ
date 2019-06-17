@@ -7,7 +7,7 @@ Click [here](https://ai.oreilly.com.cn/ai-cn/public/schedule/detail/75532?locale
 To make most of the tutorial session, please follow the following steps and set up the environment:
 
 1. Open [Azure Portal](https://portal.azure.com)
-2. Log in with the username and password provided on your desk (ask the presenters for help if needed)
+2. Open the provided link and enter the activation code, then sign up.
 3. Click the workspace as shown below
 
 <img width="400" src="https://user-images.githubusercontent.com/48665960/59402271-2a114680-8dd0-11e9-99e4-d555813cd88c.PNG">
