@@ -61,7 +61,7 @@ In this session, we are going to run a few notebooks to learn:
  - [Training and hyperparameter tune with TensorFlow](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/blob/master/3_train-hyperparameter-tune-with-tensorflow.ipynb)
  - [Explain classification model and visualize the explanation](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/blob/master/4_automl-model-explanation.ipynb)
  - [Classification with ONNX](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/blob/master/5_automl-classification-with-onnx.ipynb)
- - [Classification with Deployment](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/blob/master/6_automl-classification-with-deployment.ipynb)
+ - [Classification with Deployment](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/blob/master/6_onnx-inference-mnist-deploy.ipynb)
  
 ### 2. Feedback
 Thank you for joining us in today's tutorial session! We hope you enjoyed it! 
