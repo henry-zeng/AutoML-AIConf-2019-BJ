@@ -48,6 +48,8 @@ _(The repo link is **henry-zeng/AutoML-AIConf-2019-BJ**)_
 
 **If asked to select a Kernal, please choose "Python 3.6"**
 
+<br><img width="400" src="https://user-images.githubusercontent.com/48665960/59671141-bb792200-91ef-11e9-9d9d-82d89d8a9c20.PNG">
+
 <br><img width="400" src="https://user-images.githubusercontent.com/48665960/59668420-0f353c80-91eb-11e9-85e3-1fe56540699f.PNG">
 
 #### :clap: Congratulations! You are all set! :clap:
