@@ -42,16 +42,26 @@ _(The repo link is **henry-zeng/AutoML-AIConf-2019-BJ**)_
 
 <img width="400" src="https://user-images.githubusercontent.com/48665960/59414558-4aeb9300-8df4-11e9-96ee-f13a73b4f133.PNG">
 
+9. Click 0_setup.ipynb, and run the whole project as shown below
+
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59668153-8d451380-91ea-11e9-9c64-8aa999f50939.PNG"><br> 
+
+**If asked to select a Kernal, please choose "Python 3.6"**
+
+<br><img width="400" src="https://user-images.githubusercontent.com/48665960/59671141-bb792200-91ef-11e9-9d9d-82d89d8a9c20.PNG">
+
+<br><img width="400" src="https://user-images.githubusercontent.com/48665960/59668420-0f353c80-91eb-11e9-85e3-1fe56540699f.PNG">
 
 #### :clap: Congratulations! You are all set! :clap:
 
 ### 1. Outline
-In this session, we are going to run a few notebooks to learn how to utilize AutoML to do:
- - Classification using whitelist models
- - Explain classification model and visualize the explanation
- - Classification with ONNX
- - Training, hyperparameter tune, and deploy with TensorFlow
- - Classification with Deployment
+In this session, we are going to run a few notebooks to learn:
+ - [What are the strengths of AutoML](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/tree/master/1_AutoML_NoAutoML_comparison)
+<br><br>and how to utilize AutoML to do:
+ - [Training and hyperparameter tune with TensorFlow](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/blob/master/3_train-hyperparameter-tune-with-tensorflow.ipynb)
+ - [Explain classification model and visualize the explanation](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/blob/master/4_automl-model-explanation.ipynb)
+ - [Classification with ONNX](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/blob/master/5_automl-classification-with-onnx.ipynb)
+ - [Classification with Deployment](https://github.com/henry-zeng/AutoML-AIConf-2019-BJ/blob/master/6_onnx-inference-mnist-deploy.ipynb)
  
 ### 2. Feedback
 Thank you for joining us in today's tutorial session! We hope you enjoyed it! 
