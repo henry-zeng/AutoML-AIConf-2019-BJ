@@ -3,8 +3,18 @@ __pycache__/
 .ipynb_checkpoints/
 .azureml/
 assets/
-sample_projects/
 .amlignore
+#
+# For 5_automl-classification-with-onnx.ipynb
+sample_projects/
+data/mnist/
 model.pkl
-automl_errors.log
-
+automl_errors*.log
+#
+# For 7_automl-onnx-deployment-quiz.ipynb
+score.py
+myenv.yml
+Dockerfile
+mnist.tar.gz
+mnist/
+azureml-models/
