@@ -44,9 +44,11 @@ _(The repo link is **henry-zeng/AutoML-AIConf-2019-BJ**)_
 
 9. Click 0_setup.ipynb, and run the whole project as shown below
 
-<img width="400" src="https://user-images.githubusercontent.com/48665960/59668153-8d451380-91ea-11e9-9c64-8aa999f50939.PNG">
+<img width="400" src="https://user-images.githubusercontent.com/48665960/59668153-8d451380-91ea-11e9-9c64-8aa999f50939.PNG"><br> 
 
-<img width="400" src="https://user-images.githubusercontent.com/48665960/59668420-0f353c80-91eb-11e9-85e3-1fe56540699f.PNG">
+**If asked to select a Kernal, please choose "Python 3.6"**
+
+<br><img width="400" src="https://user-images.githubusercontent.com/48665960/59668420-0f353c80-91eb-11e9-85e3-1fe56540699f.PNG">
 
 #### :clap: Congratulations! You are all set! :clap:
 
